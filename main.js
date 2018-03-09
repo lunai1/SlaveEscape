@@ -16,7 +16,7 @@ function start() {
     invent();
 }
 function c1() {
-  text.innerHTML = ';
+  text.innerHTML = "You wake up in your quarters, the smell of bodys.";
   button.innerHTML = "<button class='choice_button' onclick='c3()'>...</button>";
   invent();
 }
